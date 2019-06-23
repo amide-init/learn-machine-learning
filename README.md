@@ -16,7 +16,9 @@ hello world, I am Amin Uddin. I will introduce machine learning,  discuss the br
 - Numpy, pandas and matplotlib are library that we will use.
 - we will use sklearn for making model.
 
-<code>
-  document.innerHTML("Hello world")
-</code>
+<div class="conatiner>
+    <code>
+      document.innerHTML("Hello world")
+    </code>
+</div>
 
